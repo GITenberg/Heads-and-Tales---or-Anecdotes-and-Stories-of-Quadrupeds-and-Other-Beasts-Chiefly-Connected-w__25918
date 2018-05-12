@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/31665
     wikipedia: http://en.wikipedia.org/wiki/Adam_White_%28zoologist%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25918#Heads-and-Tales---or-Anecdotes-and-Stories-of-Quadrupeds-and-Other-Beasts-Chiefly-Connected-w_
 gutenberg_bookshelf: Animals-Wild
 gutenberg_issued: '2008-06-28'
 gutenberg_type: Text
