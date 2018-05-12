@@ -1,0 +1,31 @@
+_repo: Heads-and-Tales---or-Anecdotes-and-Stories-of-Quadrupeds-and-Other-Beasts-Chiefly-Connected-w__25918
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: White, Adam
+    birthdate: 1817
+    deathdate: 1879
+    gutenberg_agent_id: '31665'
+    url: http://www.gutenberg.org/2009/agents/31665
+    wikipedia: http://en.wikipedia.org/wiki/Adam_White_%28zoologist%29
+description: ''
+gutenberg_bookshelf: Animals-Wild
+gutenberg_issued: '2008-06-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25918'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Animals -- Anecdotes'
+- !lcc 'QL'
+- !lcsh 'Mammals'
+title: 'Heads and Tales : or, Anecdotes and Stories of Quadrupeds and Other Beasts,
+  Chiefly Connected with Incidents in the Histories of More or Less Distinguished
+  Men.'
+url: http://www.gutenberg.org/ebooks/25918
